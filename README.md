@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sandesh (a.k.a. @sansho-07)
+# 👋 Hi there, I'm SanSho (a.k.a. Sandesh B.K)
 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Full-Stack Development  
 - 🌱 I’m currently learning ML algorithms from scratch to advance, model deployment with different platform, and building RESTful APIs  
